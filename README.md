@@ -1,2 +1,2 @@
 # cursoc-alice
-Curso C Moderno
+Curso C Moderno (II Edición)
